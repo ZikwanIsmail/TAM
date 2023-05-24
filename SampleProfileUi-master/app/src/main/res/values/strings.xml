@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SampleProfileUi</string>
+    <string name="job_success">Job Success</string>
+    <string name="ui_ux_designer">UI/UX Designer</string>
+    <string name="my_desc">From Zero To Hero</string>
+    <string name="about_me">About Me</string>
+    <string name="contact">Contact</string>
+    <string name="skills">Skills</string>
+    <string name="ratings">Star Ratings</string>
+    <string name="samplereview">penjual Sangat Ramah Bintang 1000 :)</string>
+</resources>
